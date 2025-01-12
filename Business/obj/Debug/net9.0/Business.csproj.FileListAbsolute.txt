@@ -1,0 +1,11 @@
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/bin/Debug/net9.0/Business.deps.json
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/bin/Debug/net9.0/Business.dll
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/bin/Debug/net9.0/Business.pdb
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/obj/Debug/net9.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/obj/Debug/net9.0/Business.AssemblyInfoInputs.cache
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/obj/Debug/net9.0/Business.AssemblyInfo.cs
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/obj/Debug/net9.0/Business.csproj.CoreCompileInputs.cache
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/obj/Debug/net9.0/Business.dll
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/obj/Debug/net9.0/refint/Business.dll
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/obj/Debug/net9.0/Business.pdb
+/var/home/user/VisualStudioCode/cSharp/Assignment/Business/obj/Debug/net9.0/ref/Business.dll
