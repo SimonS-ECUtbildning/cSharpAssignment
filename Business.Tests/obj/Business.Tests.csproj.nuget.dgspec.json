@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Assignment/Assignment.csproj": {}
+    "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business.Tests/Business.Tests.csproj": {}
   },
   "projects": {
-    "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Assignment/Assignment.csproj": {
+    "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business.Tests/Business.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Assignment/Assignment.csproj",
-        "projectName": "Assignment",
-        "projectPath": "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Assignment/Assignment.csproj",
+        "projectUniqueName": "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business.Tests/Business.Tests.csproj",
+        "projectName": "Business.Tests",
+        "projectPath": "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business.Tests/Business.Tests.csproj",
         "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Assignment/obj/",
+        "outputPath": "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user/.nuget/NuGet/NuGet.Config"
@@ -48,6 +48,24 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

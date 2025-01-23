@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/var/home/user/VisualStudioCode/cSharp/Assignment/Business/Business.csproj": {}
+    "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business/Business.csproj": {}
   },
   "projects": {
-    "/var/home/user/VisualStudioCode/cSharp/Assignment/Business/Business.csproj": {
+    "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/var/home/user/VisualStudioCode/cSharp/Assignment/Business/Business.csproj",
+        "projectUniqueName": "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/var/home/user/VisualStudioCode/cSharp/Assignment/Business/Business.csproj",
+        "projectPath": "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business/Business.csproj",
         "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/var/home/user/VisualStudioCode/cSharp/Assignment/Business/obj/",
+        "outputPath": "/var/home/user/VisualStudioCode/cSharp/CSharp_Assignment/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user/.nuget/NuGet/NuGet.Config"
